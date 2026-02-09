@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data (DO NOT TRACK)
+data/
+*.p
+
+# OS
+.DS_Store
